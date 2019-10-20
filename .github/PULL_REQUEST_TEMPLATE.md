@@ -15,6 +15,7 @@ Please list the issues your PR fixes using special keywords, see
 https://help.github.com/articles/closing-issues-using-keywords/
 
 Fixes #…
+all the changes and updations are welcome
 -->
 
 <!--
