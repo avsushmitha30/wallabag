@@ -6,7 +6,7 @@
 
 - Clone the repository
 - Ensure your Docker daemon is running
-- Launch `docker-compose up`
+- Launch `docker-compose up`.
 
 You'll then have:
 - a web server (nginx)
