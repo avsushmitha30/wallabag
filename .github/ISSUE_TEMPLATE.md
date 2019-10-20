@@ -1,8 +1,8 @@
-:warning: If your issue is about an error during fetching a link, please read: http://doc.wallabag.org/en/user/errors_during_fetching.html#how-can-i-help-to-fix-that
+:WARNING: If your issue is about an error during fetching a link, please read: http://doc.wallabag.org/en/user/errors_during_fetching.html#how-can-i-help-to-fix-that
 
 ### Issue details
 
-Please provide issue details here.
+Please provide issue details here :
 Remember, this is _not_ a place to ask questions. For that, go to https://community.wallabag.org/ (forum) or http://gitter.im/wallabag/wallabag (chat).
 
 ### Environment
